@@ -33,6 +33,10 @@ complaint-classification
 └── README.md
 ```
 
+## Application Preview
+
+![Application Screenshot](frontend/src/assets/application_ss.png)
+
 ### Backend
 - **`app.py`**: The main Flask application that handles API requests.
 - **`deleteCollection.py`**: A script for managing database collections.
